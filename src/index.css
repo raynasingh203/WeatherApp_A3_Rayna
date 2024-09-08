@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "pixelsans"  ;
+  src: url(/pixelsans/PixeloidMono-d94EV.ttf);
+}
+
+
+@font-face {
+  font-family: "pixelsans2"  ;
+  src: url(/pixelsans/PixeloidSansBold-PKnYd.ttf);
+}
+
+
+@font-face {
+  font-family: "notable"  ;
+  src: url(/notable/Notable-Regular.ttf);
+}
+
+@font-face {
+  font-family: "orbitron"  ;
+  src: url(/orbitron/Orbitron-Regular.ttf);
+}
+
+@font-face {
+  font-family: "orbitron1"  ;
+  src: url(/orbitron/Orbitron-Medium.ttf);
+}
